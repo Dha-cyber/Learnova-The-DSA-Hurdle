@@ -47,6 +47,7 @@ Open in Your Browser:
 Just double-click the index.html file! That's it! Your browser will open the app, and you're ready to play.
 
 How to Play 🕹️
+
 1️⃣Start Your Adventure: When the page loads, you'll be presented with the login/registration screen.
 
 2️⃣Pick Your Topic: Choose a DSA topic from the dropdown menu if the game requires it (some games like "Block Identifier" or "Spin and Solve" pick topics for you!).
