@@ -92,6 +92,4 @@ This project is open-source and available under the MIT License. Check out the L
 Big Thanks To... 🙏
 Tailwind CSS - For making styling a breeze!
 
-Google Fonts for Roboto and Montserrat.
-
 And YOU, for checking out Learnova! Happy learning!💟
