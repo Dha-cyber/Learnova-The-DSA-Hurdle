@@ -62,11 +62,11 @@ How to Play 🕹️
 🚨 Important Note for Fellow Devs 🚨
 Hey, just a heads-up! This project is designed to be a purely frontend application. This means:
 
-No Backend Needed: You don't need to set up any Python Flask server, Firebase, or worry about API keys. Just open index.html and you're good to go!
+💥No Backend Needed: You don't need to set up any Python Flask server, Firebase, or worry about API keys. Just open index.html and you're good to go!
 
-All Content is Local: Every single game question, riddle, code snippet, and answer is hardcoded directly into the JavaScript files. This makes it super easy to run and deploy, but also means you'll need to edit the JavaScript if you want to change or add new game content.
+💥All Content is Local: Every single game question, riddle, code snippet, and answer is hardcoded directly into the JavaScript files. This makes it super easy to run and deploy, but also means you'll need to edit the JavaScript if you want to change or add new game content.
 
-Local Data Storage: User login/registration, game history, and reward tracking are handled using your browser's localStorage. This means data is saved directly in your browser and won't persist across different browsers or devices, and isn't shared with others.
+💥Local Data Storage: User login/registration, game history, and reward tracking are handled using your browser's localStorage. This means data is saved directly in your browser and won't persist across different browsers or devices, and isn't shared with others.
 
 This project is a great example of a self-contained, interactive frontend application!
 
